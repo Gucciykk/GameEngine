@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EngineInterface (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EngineInterface (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
